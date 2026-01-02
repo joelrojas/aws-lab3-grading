@@ -1,0 +1,9 @@
+{
+  "name": "process-function",
+  "version": "1.0.0",
+  "description": "Image metadata processor",
+  "main": "app.js",
+  "dependencies": {
+    "image-size": "^1.0.2"
+  }
+}
